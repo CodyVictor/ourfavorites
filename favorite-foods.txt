@@ -2,4 +2,8 @@ burrito
 pizza
 guacamole
 cheese
+<<<<<<< HEAD
 chicken alfredo
+=======
+tacos
+>>>>>>> added favorite food
