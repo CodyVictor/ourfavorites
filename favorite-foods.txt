@@ -3,3 +3,5 @@ pizza
 guacamole
 cheese
 chicken alfredo
+Chili
+Saltine Crackers
